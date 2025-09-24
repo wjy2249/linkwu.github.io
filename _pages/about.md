@@ -16,14 +16,45 @@ News
 ======
 
 
-Getting started
+Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this (template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 1. **Matrix representation and GPU-optimized parallel B-spline computing**
+   - **Journal:** Computer-Aided Design  
+   - **Date:** December 2025  
+   - **DOI:** [10.1016/j.cad.2025.103948](https://doi.org/10.1016/j.cad.2025.103948)  
+   - **Contributors:** Jiayu Wu, Zhengwen Feng, Qiang Zou  
+   - **Abstract:** This paper presents a novel approach to B-spline evaluation and manipulation, transforming B-splines into matrix-based representations that align with GPU architecture, enabling significant performance improvements.
+   - **Figure:**
+     ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
+   - **Code:** [GitHub Repository](URL_to_code)  <!-- Replace with the link to your code -->
+   - **Page:** [Link to the journal page](URL_to_page)  <!-- Replace with the link to the journal page -->
+
+---
+
+### 2. **SplineGen: Approximating unorganized points through generative AI**
+   - **Journal:** Computer-Aided Design  
+   - **Date:** January 2025  
+   - **DOI:** [10.1016/j.cad.2024.103809](https://doi.org/10.1016/j.cad.2024.103809)  
+   - **Contributors:** Qiang Zou, Lizhen Zhu, Jiayu Wu, Zhijie Yang  
+   - **Abstract:** This work explores the use of generative AI for approximating unorganized points, applying advanced modeling techniques to enhance precision in geometric representations.
+   - **Figure:**
+     ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
+   - **Code:** [GitHub Repository](URL_to_code)  <!-- Replace with the link to your code -->
+   - **Page:** [Link to the journal page](URL_to_page)  <!-- Replace with the link to the journal page -->
+
+---
+
+### 3. **TPMS2STEP: Error-Controlled and C2-Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA**
+   - **Journal:** Computer-Aided Design  
+   - **Date:** August 2024  
+   - **DOI:** [10.1016/j.cad.2024.103726](https://doi.org/10.1016/j.cad.2024.103726)  
+   - **Contributors:** Yaonaiming Zhao, Qiang Zou, Guoyue Luo, Jiayu Wu, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang  
+   - **Abstract:** The paper introduces a method to translate TPMS models to STEP files with error-controlled approximations and C2 continuity, based on constrained PIA for improved model interoperability in CAD systems.
+   - **Figure:**
+     ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
+   - **Code:** [GitHub Repository](URL_to_code)  <!-- Replace with the link to your code -->
+   - **Page:** [Link to the journal page](URL_to_page)  <!-- Replace with the link to the journal page -->
+
 
 Site-wide configuration
 ------
