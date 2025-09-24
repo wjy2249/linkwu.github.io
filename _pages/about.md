@@ -36,7 +36,7 @@ Selected Publications
 ---
 
 **TPMS2STEP: Error-Controlled and C2-Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA**
-   ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
+    <img src="images/tpms2step.png" width="300" /> 
    - Yaonaiming Zhao, Qiang Zou, Guoyue Luo, **Jiayu Wu**, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang  
    - Computer-Aided Design, 2024  
    - [Paper](https://doi.org/10.1016/j.cad.2024.103726) [Code](URL_to_code)
