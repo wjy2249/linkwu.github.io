@@ -18,7 +18,7 @@ News
 
 Selected Publications
 ======
-### 1. **Matrix representation and GPU-optimized parallel B-spline computing**
+ **Matrix representation and GPU-optimized parallel B-spline computing**
    - **Journal:** Computer-Aided Design  
    - **Date:** December 2025  
    - **DOI:** [10.1016/j.cad.2025.103948](https://doi.org/10.1016/j.cad.2025.103948)  
@@ -31,7 +31,7 @@ Selected Publications
 
 ---
 
-### 2. **SplineGen: Approximating unorganized points through generative AI**
+ **SplineGen: Approximating unorganized points through generative AI**
    - **Journal:** Computer-Aided Design  
    - **Date:** January 2025  
    - **DOI:** [10.1016/j.cad.2024.103809](https://doi.org/10.1016/j.cad.2024.103809)  
@@ -44,7 +44,7 @@ Selected Publications
 
 ---
 
-### 3. **TPMS2STEP: Error-Controlled and C2-Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA**
+ **TPMS2STEP: Error-Controlled and C2-Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA**
    - **Journal:** Computer-Aided Design  
    - **Date:** August 2024  
    - **DOI:** [10.1016/j.cad.2024.103726](https://doi.org/10.1016/j.cad.2024.103726)  
