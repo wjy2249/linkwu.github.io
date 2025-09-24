@@ -19,7 +19,7 @@ News
 Selected Publications
 ======
 **Matrix representation and GPU-optimized parallel B-spline computing**
-   ![Figure](_pages/GPU computation.png)  <!-- Replace with your image link -->
+   ![Figure]([_pages/GPU computation.png](https://github.com/wjy2249/linkwu.github.io/blob/a6af7f8d12d3982d13fa9045fa623c04bf68fd24/_pages/GPU%20computation.png))  <!-- Replace with your image link -->
    -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
    -  Computer-Aided Design, 2025  
    -  [Paper](https://doi.org/10.1016/j.cad.2025.103948) [Code](URL_to_code) 
