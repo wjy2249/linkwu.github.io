@@ -22,7 +22,7 @@ Selected Publications
    ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
    -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
    -  Computer-Aided Design, 2025  
-   -  [Paper]([URL_to_page](https://doi.org/10.1016/j.cad.2025.103948)) [Code](URL_to_code) 
+   -  [Paper](https://doi.org/10.1016/j.cad.2025.103948) [Code](URL_to_code) 
 
 ---
 
@@ -36,11 +36,9 @@ Selected Publications
 
 **TPMS2STEP: Error-Controlled and C2-Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA**
    ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
-   - **Authors:** Yaonaiming Zhao, Qiang Zou, Guoyue Luo, Jiayu Wu, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang  
-   - **Journal:** Computer-Aided Design, August 2024  
-   - **DOI:** [10.1016/j.cad.2024.103726](https://doi.org/10.1016/j.cad.2024.103726)  
-   - **Paper:** [Link to the paper](URL_to_page)  <!-- Replace with the link to the journal page -->
-   - **Code:** [GitHub Repository](URL_to_code)  <!-- Replace with the link to your code -->
+   - Yaonaiming Zhao, Qiang Zou, Guoyue Luo, **Jiayu Wu**, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang  
+   - Computer-Aided Design, 2024  
+   - [Paper](https://doi.org/10.1016/j.cad.2024.103726) [Code](URL_to_code)
 
 
 Site-wide configuration
