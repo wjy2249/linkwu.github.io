@@ -28,7 +28,7 @@ Selected Publications
 ---
 
 **SplineGen: Approximating unorganized points through generative AI**
-   ![Figure](images/splinegen.png)
+    <img src="images/splinegen.png" width="300" /> 
    - Qiang Zou, Lizhen Zhu, **Jiayu Wu**, Zhijie Yang  
    - Computer-Aided Design, 2025  
    - [Paper](https://doi.org/10.1016/j.cad.2024.103809) [Code](URL_to_code)
