@@ -14,6 +14,7 @@ My research interests lie in geometric modeling, with a particular focus on GPU-
 
 News
 ======
+I will be giving a speech at the Symposium on Solid and Physical Modeling (SPM2025) at the end of October.
 
 
 Selected Publications
