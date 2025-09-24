@@ -49,14 +49,9 @@ Selected Publications
 
 Honors and Awards
 ------
-*First-class Scholarship for Study*, Dalian University of Technology 2020,2021
-
-*Science and Technology Innovation Scholarship*, Dalian University of Technology 2020,2021,2022
-
-*National Scholarship*, Ministry of Education of the People’s Republic of China 2020
-
-*Outstanding Graduate*, Dalian University of Technology 2023
-
-*First-class Scholarship for Academic Excellence*, Zhejiang University 2024
-
-*Academic Innovation Ability Single Honor*, Zhejiang University 2024
+- 🏅 *First-class Scholarship for Study*, Dalian University of Technology — 2020, 2021  
+- 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology — 2020, 2021, 2022  
+- 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China — 2020  
+- 🏅 *Outstanding Graduate*, Dalian University of Technology — 2023  
+- 🏅 *First-class Scholarship for Academic Excellence*, Zhejiang University — 2024  
+- 🏅 *Academic Innovation Ability Single Honor*, Zhejiang University — 2024  
