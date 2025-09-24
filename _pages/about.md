@@ -20,19 +20,17 @@ Selected Publications
 ======
 **Matrix representation and GPU-optimized parallel B-spline computing**
    ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
-   -  Jiayu Wu, Zhengwen Feng, Qiang Zou  
-   -  Computer-Aided Design, September 2025  
+   -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
+   -  Computer-Aided Design, 2025  
    -  [Paper]([URL_to_page](https://doi.org/10.1016/j.cad.2025.103948)) [Code](URL_to_code) 
 
 ---
 
 **SplineGen: Approximating unorganized points through generative AI**
    ![Figure](URL_to_your_image)  <!-- Replace with your image link -->
-   - **Authors:** Qiang Zou, Lizhen Zhu, Jiayu Wu, Zhijie Yang  
-   - **Journal:** Computer-Aided Design, January 2025  
-   - **DOI:** [10.1016/j.cad.2024.103809](https://doi.org/10.1016/j.cad.2024.103809)  
-   - **Paper:** [Link to the paper](URL_to_page)  <!-- Replace with the link to the journal page -->
-   - **Code:** [GitHub Repository](URL_to_code)  <!-- Replace with the link to your code -->
+   - Qiang Zou, Lizhen Zhu, **Jiayu Wu**, Zhijie Yang  
+   - Computer-Aided Design, 2025  
+   - [Paper](https://doi.org/10.1016/j.cad.2024.103809) [Code](URL_to_code)
 
 ---
 
