@@ -23,7 +23,7 @@ repository               : "wjy2249/linkwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Wu Jiayu"
   pronouns         : # example: "she/her"  
   bio              : "Gradstudent in geometric modeling"
