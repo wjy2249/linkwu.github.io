@@ -25,7 +25,7 @@ Selected Publications
 
    -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
    -  Computer-Aided Design, 2025  
-   -  [Paper](https://doi.org/10.1016/j.cad.2025.103948) [Code](URL_to_code) 
+   -  [Paper](https://doi.org/10.1016/j.cad.2025.103948) [Code](https://github.com/Qiang-Zou/Matrix-CAD) 
 
 ---
 
@@ -35,7 +35,7 @@ Selected Publications
 
    - Qiang Zou, Lizhen Zhu, **Jiayu Wu**, Zhijie Yang  
    - Computer-Aided Design, 2025  
-   - [Paper](https://doi.org/10.1016/j.cad.2024.103809) [Code](URL_to_code)
+   - [Paper](https://doi.org/10.1016/j.cad.2024.103809) [Code](https://github.com/Qiang-Zou/SplineGen)
 
 ---
 
@@ -45,7 +45,7 @@ Selected Publications
 
    - Yaonaiming Zhao, Qiang Zou, Guoyue Luo, **Jiayu Wu**, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang  
    - Computer-Aided Design, 2024  
-   - [Paper](https://doi.org/10.1016/j.cad.2024.103726) [Code](URL_to_code)
+   - [Paper](https://doi.org/10.1016/j.cad.2024.103726) [Code](https://github.com/Qiang-Zou/TPMS2STEP)
 
 Honors and Awards
 ------
