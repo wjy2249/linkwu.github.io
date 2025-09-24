@@ -49,17 +49,22 @@ Selected Publications
 
 Honors and Awards
 ------
-- **2020**
+- **2019**
   - 🏅 *First-class Scholarship for Study*, Dalian University of Technology  
-  - 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology
+  - 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology  
   - 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China  
 
-- **2021**
-  - 🏅 *First-class Scholarship for Study*, Dalian University of Technology
-  - 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology
-  
-  **2022**
+- **2020**
+  - 🏅 *First-class Scholarship for Study*, Dalian University of Technology  
   - 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology  
+  - 🏅 *Gold Award*, Liaoning Provincial Programming Contest  
+  - 🏅 *Bronze Award*, CCPC Undergraduate Programming Competition (Northeast China)  
+
+- **2021**
+  - 🏅 *Science and Technology Innovation Scholarship*, Dalian University of Technology  
+  - 🏅 *Silver Award*, National College Student Algorithm Programming and Design Contest  
+  - 🏅 *Winning Prize*, ICPC Asia Regional Finals (ICPC EC-final)  
+  - 🏅 *Individual Second Prize*, CCCC National Group Programming Ladder Competition  
 
 - **2023**
   - 🏅 *Outstanding Graduate*, Dalian University of Technology  
