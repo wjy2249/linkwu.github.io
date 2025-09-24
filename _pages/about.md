@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently pursuing a master's degree at the School of Computer Science, Zhejiang University (2023-present). I work at the State Key Laboratory of CAD & CG, where I am fortunate to be mentored by Prof. [Zou Qiang](https://qiang-zou.github.io/). Prior to this, I completed my undergraduate studies at Dalian University of Technology (2019-2023), under the guidance of Prof. [Zhang Miao](https://scholar.google.com/citations?hl=zh-CN&user=Uu5ct6YAAAAJ&view_op=list_works&sortby=pubdate).
+I am currently pursuing a master's degree at the School of Computer Science, Zhejiang University (2023-present). I work at the State Key Laboratory of CAD & CG, where I am fortunate to be mentored by Prof. [Qiang Zou](https://qiang-zou.github.io/). Prior to this, I completed my undergraduate studies at Dalian University of Technology (2019-2023), under the guidance of Prof. [Miao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=Uu5ct6YAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research interests lie in geometric modeling, with a particular focus on GPU-accelerated geometric computations.
 
