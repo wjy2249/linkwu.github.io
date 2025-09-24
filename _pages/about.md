@@ -20,7 +20,9 @@ I will be giving a speech at the Symposium on Solid and Physical Modeling (SPM20
 Selected Publications
 ======
 **Matrix representation and GPU-optimized parallel B-spline computing**
-   <img src="images/GPU_computation.png" width="300" /> 
+
+<img src="images/GPU_computation.png" width="300" /> 
+
    -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
    -  Computer-Aided Design, 2025  
    -  [Paper](https://doi.org/10.1016/j.cad.2025.103948) [Code](URL_to_code) 
@@ -28,7 +30,9 @@ Selected Publications
 ---
 
 **SplineGen: Approximating unorganized points through generative AI**
-    <img src="images/splinegen.png" width="240" /> 
+
+<img src="images/splinegen.png" width="240" /> 
+
    - Qiang Zou, Lizhen Zhu, **Jiayu Wu**, Zhijie Yang  
    - Computer-Aided Design, 2025  
    - [Paper](https://doi.org/10.1016/j.cad.2024.103809) [Code](URL_to_code)
