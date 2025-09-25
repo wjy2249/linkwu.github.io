@@ -21,7 +21,7 @@ Selected Publications
 ======
 **Matrix representation and GPU-optimized parallel B-spline computing**
 
-<img src="images/GPU_computation.png" width="300" /> 
+<img src="images/M-rep_fengmian.png" width="300" /> 
 
    -  **Jiayu Wu**, Zhengwen Feng, Qiang Zou  
    -  Computer-Aided Design, 2025  
