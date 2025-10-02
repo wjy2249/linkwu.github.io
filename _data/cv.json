@@ -1,152 +1,108 @@
 {
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+    "name": "Jiayu Wu",
+    "email": "linkwu@zju.edu.cn",
+    "website": "wjy2249.github.io/linkwu.github.io",
+    "research_interests": [
+        "Geometric Modeling",
+        "Computer-aided Design",
+        "Parallel Computing",
+        "Computational Geometry"
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Artificial Intelligence",
+            "institution": "Zhejiang University",
+            "year": "2023–",
+            "details": "Weighted Average: 91.8/100, Rank: NA (1/33 in admin class)"
+        },
+        {
+            "degree": "B.Sc. in Software Engineering",
+            "institution": "Dalian University of Technology",
+            "year": "2019–2023",
+            "details": "GPA: 3.90/4.0, Rank: 2/73"
+        }
+    ],
+    "research_experience": [
+        {
+            "role": "Graduate Student",
+            "institution": "State Key Laboratory of CAD&CG, Zhejiang University",
+            "advisor": "Prof. Qiang Zou",
+            "year": "2023–"
+        }
+    ],
+    "publications": {
+        "journal_articles": [
+            {
+                "authors": [
+                    "Jiayu Wu",
+                    "Feng, Z.",
+                    "Zou, Q."
+                ],
+                "title": "Matrix representation and GPU-optimized parallel B-spline computing",
+                "journal": "Computer-Aided Design",
+                "volume": 189,
+                "article_id": "103948",
+                "year": 2025
+            },
+            {
+                "authors": [
+                    "Zou, Q.",
+                    "Zhu, L.",
+                    "Jiayu Wu",
+                    "Yang, Z."
+                ],
+                "title": "SplineGen: Approximating unorganized points through generative AI",
+                "journal": "Computer-Aided Design",
+                "volume": 178,
+                "article_id": "103809",
+                "year": 2025
+            },
+            {
+                "authors": [
+                    "Zhao, Y.",
+                    "Zou, Q.",
+                    "Luo, G.",
+                    "Jiayu Wu",
+                    "Chen, S.",
+                    "Gao, D.",
+                    "Xuan, M.",
+                    "Wang, F."
+                ],
+                "title": "TPMS2STEP: Error-Controlled and C2 Continuity-Preserving Translation of TPMS Models to STEP Files Based on Constrained-PIA",
+                "journal": "Computer-Aided Design",
+                "volume": 173,
+                "article_id": "103726",
+                "year": 2024
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
-  },
-  "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+    "presentations": [
+        {
+            "author": "Jiayu Wu",
+            "title": "Matrix representation and GPU-optimized parallel B-spline computing",
+            "conference": "SPM 2025: Symposium on Solid and Physical Modeling",
+            "location": "Hangzhou, China",
+            "date": "Oct. 2025"
+        }
+    ],
+    "awards_honors": {
+        "awards": [
+            "2020, 2021 Gold Award, Liaoning Provincial Programming Contest",
+            "2020 Bronze Award, CCPC Undergraduate Programming Competition (Northeast China)",
+            "2020 Silver Award, National College Student Algorithm Programming and Design Contest",
+            "2021 Winning Prize, ICPC Asia Regional Finals (ICPC EC-final)",
+            "2021 Individual Second Prize, CCCC National Group Programming Ladder Competition"
+        ],
+        "scholarships": [
+            "2020, 2021 First-class scholarship for study, Dalian University of Technology",
+            "2020–2022 Science and Technology Innovation Scholarship, Dalian University of Technology",
+            "2020 National Scholarship, Ministry of Education of the People’s Republic of China",
+            "2024 First-class Scholarship for Academic Excellence, Zhejiang University"
+        ],
+        "honors": [
+            "2023 Outstanding Graduate, Dalian University of Technology",
+            "2024 Academic Innovation Ability Single Honor, Zhejiang University"
+        ]
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+    "last_updated": "October 2, 2025"
 }
