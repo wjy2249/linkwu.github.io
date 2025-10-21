@@ -56,4 +56,6 @@ Honors and Awards
 - 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China — 2020  
 - 🏅 *Outstanding Graduate*, Dalian University of Technology — 2023  
 - 🏅 *First-class Scholarship for Academic Excellence*, Zhejiang University — 2024  
-- 🏅 *Academic Innovation Ability Single Honor*, Zhejiang University — 2024  
+- 🏅 *Academic Innovation Ability Single Honor*, Zhejiang University — 2024
+- 🏅 *Outstanding Postgraduate*, Zhejiang University — 2025
+- 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China — 2025  
