@@ -16,7 +16,7 @@ News
 ======
 I have just been selected for this year's National Scholarship for Graduate Students.
 
-I will be giving a speech at the Symposium on Solid and Physical Modeling (SPM2025) at the end of October.
+I gave a speech at the Symposium on Solid and Physical Modeling (SPM2025) at the end of October.
 
 
 Selected Publications
