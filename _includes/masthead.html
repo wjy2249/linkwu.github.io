@@ -13,9 +13,6 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            {% if link.url contains '.pdf' %}
-              <iframe src="{{ site.baseurl }}{{ link.url }}" title="{{ link.link_title }}" width="100%" height="600px"></iframe>
-            {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
