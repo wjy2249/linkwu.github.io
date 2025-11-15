@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing a master's degree at the College of Computer Science, Zhejiang University (2023-present). I am affiliated with the [State Key Laboratory of CAD & CG](http://www.cad.zju.edu.cn/), where I am fortunate to be supervised by Prof. [Qiang Zou](https://qiang-zou.github.io/). Prior to this, I completed my undergraduate studies at Dalian University of Technology (2019-2023), under the guidance of Prof. [Miao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=Uu5ct6YAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research interests include but are not limited to geometric modeling, computer-aided design, parallel computing, and computer graphics. Currently, I'm working on GPU accelerated B-spline modeling.
+My research interests include but are not limited to geometric modeling, computer-aided design, parallel computing, and computer graphics. Currently, I'm working on high performance GPU B-spline modeling.
 
 News
 ======
