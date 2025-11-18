@@ -24,8 +24,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_Wu_Jiayu.pdf
-    download: "Wu_Jiayu_CV.pdf"
+    url: /files/CV.pdf
+    download: "CV.pdf"
     link_title: "CV_Jiayu_Wu"
     
  #  - title: "CV"
