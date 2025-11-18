@@ -14,7 +14,7 @@ My research interests include but are not limited to geometric modeling, compute
 
 News
 ======
-I have just been selected for this year's National Scholarship for Graduate Students.
+I have just been selected by Zhejiang University for this year's National Scholarship for Graduate Students, and I am deeply grateful to my advisor for his guidance and support.
 
 At the end of October, I delivered a presentation at the Symposium on Solid and Physical Modeling (SPM2025), in which I reported on our recent research in high-performance geometric computing.
 
