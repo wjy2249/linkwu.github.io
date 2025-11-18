@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is pdf version of my [CV]()
+Here is pdf version of my [CV](https://github.com/wjy2249/linkwu.github.io/files/CV_Wu_Jiayu.pdf)
