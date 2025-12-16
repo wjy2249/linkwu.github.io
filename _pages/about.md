@@ -58,4 +58,7 @@ Honors and Awards
 - 🏅 *First-class Scholarship for Academic Excellence*, Zhejiang University — 2024, 2025  
 - 🏅 *Academic Innovation Ability Single Honor*, Zhejiang University — 2024
 - 🏅 *Outstanding Postgraduate*, Zhejiang University — 2025
-- 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China — 2025  
+- 🏅 *National Scholarship*, Ministry of Education of the People’s Republic of China — 2025
+
+Misc
+In my spare time, I enjoy playing Dota 2 and trading options.
