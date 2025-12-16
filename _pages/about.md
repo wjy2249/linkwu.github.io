@@ -64,6 +64,6 @@ Honors and Awards
 Misc
 ======
 
-In my spare time, I enjoy **playing Dota 2 🎮** and **options trading 📈**
+In my spare time, I enjoy **playing Dota 2🎮** and **options trading📈**.
 
 
