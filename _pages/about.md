@@ -63,4 +63,9 @@ Honors and Awards
 
 Misc
 ======
-In my spare time, I enjoy playing Dota 2 and trading options.
+In my spare time, I enjoy staying active through **swimming 🏊‍♂️** and **playing table tennis 🏓**.  
+I am also an enthusiastic **Dota 2 🎮** player, drawn to the strategy, teamwork, and fast-paced decision-making the game requires.
+
+Beyond sports and gaming, I am a **trading amateur 📈**, with a particular interest in **options trading**.  
+I enjoy analyzing uncertainty, managing risk, and making disciplined decisions in dynamic markets.
+
