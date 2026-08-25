@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "AI Infrastructure Engineer"
   location         : "Shanghai,China"
-  employer_line1   : "Zhejiang University"
-  employer_line2   : "School of Computer Science"
+  employer_line1   : "Moore Threads AI"
+  # employer_line2   : "School of Computer Science"
   uri              : # URL
   email            : "linkwu@zju.edu.cn" 
 
